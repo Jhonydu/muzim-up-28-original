@@ -1,0 +1,17 @@
+03:11:41 [ServerInfo] CashShop loaded successfully
+03:11:42 [ServerInfo] ChaosMix loaded successfully
+03:11:42 [ServerInfo] Character loaded successfully
+03:11:42 [ServerInfo] Custom loaded successfully
+03:11:42 [ServerInfo] Command loaded successfully
+03:11:42 [ServerInfo] Common loaded successfully
+03:11:42 [ServerInfo] Event loaded successfully
+03:11:42 [ServerInfo] EventItemBag loaded successfully
+03:11:42 [ServerInfo] Hack loaded successfully
+03:11:42 [ServerInfo] Item loaded successfully
+03:11:42 [ServerInfo] Monster loaded successfully
+03:11:42 [ServerInfo] Move loaded successfully
+03:11:42 [ServerInfo] Quest loaded successfully
+03:11:42 [ServerInfo] Shop loaded successfully
+03:11:42 [ServerInfo] Skill loaded successfully
+03:11:42 [ServerInfo] Util loaded successfully
+03:11:42 [ReadBotInfo] BotSystem loaded successfully
